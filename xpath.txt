@@ -1,0 +1,3 @@
+LINKS = //h2/a/@href
+TITLES = //div[@class='mb-auto']/h2/span/text()
+LEAD = //div[@class='lead']/p/text()
