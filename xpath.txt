@@ -1,3 +1,4 @@
 LINKS = //h2/a/@href
 TITLES = //div[@class='mb-auto']/h2/span/text()
-LEAD = //div[@class='lead']/p/text()
+SUMMARY = //div[@class='lead']/p/text()
+PARAGRAPH = //div[@class='html-content']//p[not(@class)]/text()
